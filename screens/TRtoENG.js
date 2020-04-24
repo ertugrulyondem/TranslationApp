@@ -11,13 +11,6 @@ import Header from '../components/Header';
 import {SafeAreaView, StyleSheet, ScrollView, View, Text, StatusBar, TouchableOpacity, TextInput, TouchableWithoutFeedback, Keyboard}
 from 'react-native';
 
-import {
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
-
 const App = () => {
 
   const [inputText, setText] = useState('');

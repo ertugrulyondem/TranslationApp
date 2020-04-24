@@ -10,13 +10,6 @@ import React, {Fragment, useState} from 'react';
 import {SafeAreaView, StyleSheet, View,StatusBar, TouchableOpacity}
 from 'react-native';
 
-import {
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
-
 const App = () => {
 
   return (
